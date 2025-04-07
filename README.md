@@ -21,14 +21,15 @@ These assignments were completed in a strict academic setting under the supervis
 
 ## 📁 Table of Contents
 
-- [Assignment 01](assignment_01.ipynb)
-- [Assignment 02](assignment_02.ipynb)
-- [Assignment 03](assignment_03.ipynb)
-- [Assignment 04](assignment_04.ipynb)
-- [Assignment 05](assignment_05.ipynb)
-- [Assignment 06](assignment_06.ipynb)
-- [Assignment 07](assignment_07.ipynb)
-- [Assignment 08](assignment_08.ipynb)
-- [Assignment 09](assignment_09.ipynb)
-- [Assignment 10](assignment_10.ipynb)
-- [Assignment 11](assignment_11.ipynb)
+- [Assignment 01](assignment_01.ipynb) — _Data exploration, plotting_
+- [Assignment 02](assignment_02.ipynb) — _Linear regression, data preprocessing_
+- [Assignment 03](assignment_03.ipynb) — _Polynomial regression, overfitting_
+- [Assignment 04](assignment_04.ipynb) — _Classification, k-NN, decision boundaries_
+- [Assignment 05](assignment_05.ipynb) — _Support Vector Machines (SVM)_
+- [Assignment 06](assignment_06.ipynb) — _Decision Trees, Random Forests_
+- [Assignment 07](assignment_07.ipynb) — _Cross-validation, performance metrics_
+- [Assignment 08](assignment_08.ipynb) — _Clustering, k-means, DBSCAN_
+- [Assignment 09](assignment_09.ipynb) — _Principal Component Analysis (PCA), t-SNE_
+- [Assignment 10](assignment_10.ipynb) — _Neural networks, Keras_
+- [Assignment 11](assignment_11.ipynb) — _Model tuning, regularization_
+- [Assignment 12](assignment_12.ipynb) — _Deep learning, image classification (CNNs)_
